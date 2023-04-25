@@ -29,7 +29,7 @@ const Navbar = () => {
       sx={{ boxShadow: 3, mb: 2 }}
     >
       <Typography variant="h1" color="primary" fontWeight="bold">
-        Chat Bot using openAI
+        Chat Bot using openAI 
       </Typography>
       {loggedIn ? (
         <>
