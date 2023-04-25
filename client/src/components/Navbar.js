@@ -26,7 +26,7 @@ const Navbar = () => {
       backgroundColor={theme.palette.background.alt}
       p="1rem 6%"
       textAlign={"center"}
-      sx={{ boxShadow: 3, mb: 2 }}
+      sx={{ boxShadow: 3, mb: 2 }} 
     >
       <Typography variant="h1" color="primary" fontWeight="bold">
         Chat Bot using openAI 
